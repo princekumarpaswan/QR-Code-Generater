@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the QR-code Generater](https://quiz-aappp.netlify.app/)
+## [Link to the QR-code Generater](https://qr-generater.netlify.app/)
 
 ![Completed Website](./qr.png)
 ![](./qr2.png)
